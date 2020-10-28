@@ -10,7 +10,7 @@
 
 ## Course Description
 
-Describe your course here. A short elevator pitch for the course, use positive, friendly language to get students excited to take your course. Use of I/you/we should be used over instructor/students.
+This course emphasizes on critical thinking through research, evaluating source material, and synthesizing concepts for advanced argumentative rhetoric. Through engagement with scholarly texts and revision of their own work, students create persuasive rhetoric (oral, visual, and written) crafted from logic, evidence, study, and synthesis, applying appropriate citation, documentation, form, and medium.
 
 ### Why you should know this (optional)
 
@@ -18,8 +18,7 @@ Explain why students should care to learn the material presented in this class.
 
 ## Prerequisites:  
 
-- [Prerequisite 1]()
-- [Prerequisite 2]()
+- [Prerequisite 1](EC1000)
 
 ## Course Specifics
 
@@ -35,12 +34,10 @@ Explain why students should care to learn the material presented in this class.
 
 By the end of the course, you will be able to ...
 
-1. Identify & Describe
-1. Explain
-1. Compare & Contrast
-1. Design & Implement
-1. Practice
-
+1. Demonstrate advanced critical thinking through such methods as summary, evaluation, synthesis, and integration of research
+1. Create effective, original, and argumentative rhetoric across media (oral, visual, and written) appropriate to topic, purpose, and audience; topics and issues may include problem solving, civic engagement, and/or positing policy or social change
+1. Apply understanding of how communication shapes and is shaped by difference (including but not limited to categories such as race, gender, sexuality, age and class) and reflect on one’s own place in a broader social context
+1. Evaluate source material, synthesize new concepts, and apply deduction, induction, and/or logic for advanced argumentative research purposes; use proper citation and documentation
 
 ## Schedule
 
