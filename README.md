@@ -250,11 +250,11 @@ Hybrid sections are a mixture of online and in person components.  In person ses
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Link to Assignment](makeschool.com)                      |  Tue, Oct 15  |  Tue, Oct 22 | [Submit Assignment](makeschool.com)  |
-| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
-| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
-| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
-
+| [Assignment 1](https://docs.google.com/document/d/1whIKJTNXoHkKOaPgMDnZhCM9elyyQIvEWr8MWQjOtwM/edit)                      |  Tue, Oct 15  |  Tue, Oct 22 | [Submit Assignment](makeschool.com)  |
+| [Assignment 2](https://docs.google.com/document/d/1HVdV2ZZflj3YGMyePruyGLy_28QgPKeeA_uHc3XCO8Q/edit)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
+| [Assignment 3](https://docs.google.com/document/d/1AO2tmV8q2Z4i7J1F1424VwA85MpovEN-WcRGo7tdEuY/edit)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
+| [Assignment 4](https://docs.google.com/document/d/1DByl9p3_TerNhBq-B-_rQVk4wXfIkBI3d2tKHbV2bXk/edit)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
+| [Assignment 5](https://docs.google.com/document/d/10QPvJqAgTWbQMjCGjjYQ8YFDjJGDsSI8NiRhek_mAOk/edit)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
 ## Class Assignments
 
 We will be using [Gradescope](gradescope.com), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
@@ -273,14 +273,9 @@ Your Gradescope login is your Make School email, and your password can be change
 
 ## Evaluation
 
-**[INSTRUCTOR NOTE] REPLACE THE BELOW WITH EVALUATIONS THAT PERTAIN TO YOUR COURSE. THE BELOW ARE PROVIDED AS A SAMPLE**
-
 To pass this course you must meet the following requirements:
 
 - Complete all required assignments 
-- Pass all projects according to the associated project rubric
-- Pass the final summative assessment according to the rubric as specified in this class
-    - This will be further explained in the [study guide](ADD_STUDY_GUIDE_LNK)
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
