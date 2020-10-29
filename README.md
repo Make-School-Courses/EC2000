@@ -4,9 +4,9 @@
   </a>
 </p>
 
-# Title
+# Effective Communication 2
 
-### [Reveal Slide Instructions](./Reveal/README.md) <-- Remove this before updating your repo
+![alt text](https://www.greenbiz.com/sites/default/files/images/articles/featured/communicationsstock.jpg)
 
 ## Course Description
 
@@ -18,7 +18,7 @@ Explain why students should care to learn the material presented in this class.
 
 ## Prerequisites:  
 
-- [Prerequisite 1](EC1000)
+- [Effective Communication 1]()
 
 ## Course Specifics
 
@@ -29,8 +29,6 @@ Explain why students should care to learn the material presented in this class.
 **Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours. 
 
 ## Learning Outcomes
-
-### **[INSTRUCTOR NOTE: PLEASE LIST (3-5) LEARNING OUTCOMES]**
 
 By the end of the course, you will be able to ...
 
