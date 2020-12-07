@@ -22,9 +22,7 @@ Explain why students should care to learn the material presented in this class.
 
 ## Course Specifics
 
-### **[INSTRUCTOR NOTE: PICK YOUR COURSE DELIVERY FORMAT BELOW AND DELETE THE OTHER TWO]**
-
-**Course Delivery**: online / hybrid / residential | 7 weeks | 14 sessions
+**Course Delivery**: online | 17 weeks | 29 sessions
 
 **Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours. 
 
@@ -39,114 +37,45 @@ By the end of the course, you will be able to ...
 
 ## Schedule
 
----
+**Course Dates:** Tuesday, January 19 – Tuesday, May 11, 2020 (17 weeks)
 
-**[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE OCTOBER 20]**
-
-Please pick from a template below and delete the other ones
-
----
-
-**M/W Template [PLEASE REMOVE THIS HEADER BEFORE OCTOBER 20]**
-
-**Course Dates:** Wednesday, October 21 – Wednesday, December 9, 2020 (8 weeks)
-
-**Class Times:** Monday, Wednesday at 9:30am–12:15pm (13 class sessions)
+**Class Times:** Tuesday, Thursday at 12:30–2:30pm (29 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Wed, Oct 21               | [Lesson 1] |
-|  2 |  Mon, Oct 26               | [Lesson 2] |
-|  3 |  Wed, Oct 28               | [Lesson 3] |
-|  - |  Mon, Nov 2              | **Vote! - Civic Responsibility Break** |
-|  4 |  Wed, Nov 4               | [Lesson 4] |
-|  5 |  Mon, Nov 9               | [Lesson 5] |
-|  6 |  Wed, Nov 11               | [Lesson 6] |
-|  7 |  Mon, Nov 16              | [Lesson 7] |
-|  8 |  Wed, Nov 18              | [Lesson 8] |
-|  9 |  Mon, Nov 23              | [Lesson 9] |
-|  - |  Wed, Nov 25               | **Holiday - Thanksgiving** |
-| 10 |  Mon, Nov 30              | [Lesson 10] |
-| 11 |  Wed, Dec 2              | [Lesson 11] |
-| 12 |  Mon, Dec 7              | [Lesson 12] |
-| 13 |  Wed, Dec 9                | Final Exam/Presentations |  
-
-
-**Tu/Th Template [PLEASE REMOVE THIS HEADER BEFORE OCTOBER 20]**
-
-**Course Dates:** Thursday, October 22 – Thursday, December 10, 2020 (8 weeks)
-
-**Class Times:** Tuesday and Thursday at 2:30–5:15pm (13 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Thu, Oct 22               | [Lesson 1] |
-|  2 |  Tue, Oct 27               | [Lesson 2] |
-|  3 |  Thu, Oct 29               | [Lesson 3] |
-|  - |  Tue, Nov 3              | **Vote! - Civic Responsibility Break** |
-|  4 |  Thu, Nov 5               | [Lesson 4] |
-|  5 |  Tue, Nov 10               | [Lesson 5] |
-|  6 |  Thu, Nov 12               | [Lesson 6] |
-|  7 |  Tue, Nov 17              | [Lesson 7] |
-|  8 |  Thu, Nov 19              | [Lesson 8] |
-|  9 |  Tue, Nov 24              | [Lesson 9] |
-|  - |  Thu, Nov 26               | **Holiday- Thanksgiving** |
-| 10 |  Tue, Dec 1              | [Lesson 10] |
-| 11 |  Thu, Dec 3              | [Lesson 11] |
-| 12 |  Tue, Dec 8              | [Lesson 12] |
-| 13 |  Thu, Dec 10                | Final Exam/Presentations |  
-
-
-**M/W/F Template [PLEASE REMOVE THIS HEADER BEFORE OCTOBER 20]**
-
-**Course Dates:** Wednesday, October 21 – Friday, December 11, 2020 (8 weeks)
-
-**Class Times:** Monday, Wednesday, Friday at 9:30am–10:30pm (20 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Wed, Oct 21               | [Lesson 1] |
-|  2 |  Fri, Oct 23               | [Lesson 2] |
-|  3 |  Mon, Oct 26               | [Lesson 3] |
-|  4 |  Wed, Oct 28               | [Lesson 4] |
-|  5 |  Fri, Oct 30               | [Lesson 5] |
-|  - |  Mon, Nov 2              | **Vote! - Civic Responsibility Break** |
-|  6 |  Wed, Nov 4               | [Lesson 7] |
-|  7 |  Fri, Nov 6               | [Lesson 8] |
-|  8 |  Mon, Nov 9               | [Lesson 9] |
-|  9 |  Wed, Nov 11               | [Lesson 10] |
-| 10 |  Fri, Nov 13               | [Lesson 11] |
-| 11 |  Mon, Nov 16              | [Lesson 12] |
-| 12 |  Wed, Nov 18              | [Lesson 13] |
-| 13 |  Fri, Nov 20              | [Lesson 14] |
-| 14 |  Mon, Nov 23              | [Lesson 15] |
-|  - |  Wed, Nov 25               | **Holiday- Thanksgiving** |
-|  - |  Fri, Nov 27               | **Holiday- Thanksgiving** |
-| 15 |  Mon, Nov 30              | [Lesson 16] |
-| 16 |  Wed, Dec 2              | [Lesson 17] |
-| 17 |  Fri, Dec 4              | [Lesson 18] |
-| 18 |  Mon, Dec 7              | [Lesson 19] |
-| 19 |  Wed, Dec 9                | [Lesson 20] |  
-| 20 |  Fri, Dec 11                | Final Exam/Presentations |  
-
-
-**Fri Template [PLEASE REMOVE THIS HEADER BEFORE OCTOBER 20]**
-
-**Course Dates:** Friday, October 23 – Friday, December 11, 2020 (8 weeks)
-
-**Class Times:** Friday at 9:30am–12:30pm (7 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Fri, Oct 23               | [Lesson 1] |
-|  2 |  Fri, Oct 30               | [Lesson 2] |
-|  3 |  Fri, Nov 6               | [Lesson 3] |
-|  4 |  Fri, Nov 13              | [Lesson 4] |
-|  5 |  Fri, Nov 20              | [Lesson 5] |
-|  - |  Fri, Nov 27              | **Holiday- Thanksgiving** |
-|  6 |  Fri, Dec 4              | [Lesson 6] |
-|  7 |  Fri, Dec 11                | Final Exam/Presentations |  
-
+|  - |  Tue, Jan 19               | **No Class - MLK Day** |
+|  1 |  Thu, Jan 21               | [Lesson 2] |
+|  2 |  Tue, Jan 26               | [Lesson 4] |
+|  3 |  Thu, Jan 28               | [Lesson 5] |
+|  4 |  Tue, Feb 2                | [Lesson 7] |
+|  5 |  Thu, Feb 4                | [Lesson 8] |
+|  6 |  Tue, Feb 9                | [Lesson 10] |
+|  7 |  Thu, Feb 11               | [Lesson 11] |
+|  8 |  Tue, Feb 16               | [Lesson 13] |
+|  9 |  Thu, Feb 18               | [Lesson 14] |
+| 10 |  Tue, Feb 23               | [Lesson 2] |
+| 11 |  Thu, Feb 25               | [Lesson 3] |
+| 12 |  Tue, Mar 2                | [Lesson 5] |
+| 13 |  Thu, Mar 4                | [Lesson 6] |
+| -  |  Tue, Mar 9                | **No Class - Spring Break** |
+| -  |  Thu, Mar 11               | **No Class - Spring Break** |
+| 14 |  Tue, Mar 16               | [Lesson 8] |
+| 15 |  Thu, Mar 18               | [Lesson 9] |
+| 16 |  Tue, Mar 23               | [Lesson 11] |
+| 17 |  Thu, Mar 25               | [Lesson 12] |
+| 18 |  Tue, Mar 29               | [Lesson 14] |
+| -  |  Thu, Apr 1               |  **No Class - Cesar Chavez**  |
+| 19 |  Tue, Apr 6              | [Lesson 2] |
+| 20 |  Thu, Apr 8              | [Lesson 3] |
+| 21 |  Tue, Apr 13             | [Lesson 5] |
+| 22 |  Thu, Apr 15             | [Lesson 6] |
+| 23 |  Tue, Apr 20             | [Lesson 8] |
+| 24 |  Thu, Apr 22             | [Lesson 9] |
+| 25 |  Tue, Apr 27             | [Lesson 11] |
+| 26 |  Thu, Apr 29             | [Lesson 12] |
+| 27 |  Tue, May 4              | [Lesson 14] |
+| 28 |  Thu, May 6               | [Lesson 1]  |
+| 29 |  Tue, May 11                | Final Exam/Presentations |
 
 
 [Lesson 1]: Lessons/Lesson1.md
@@ -169,80 +98,6 @@ Please pick from a template below and delete the other ones
 [Lesson 18]: Lessons/Lesson14.md
 [Lesson 19]: Lessons/Lesson14.md
 [Lesson 20]: Lessons/Lesson14.md
-
-
-## Tabbed Schedule - EXAMPLE
-
-**How to make a tabbed schedule.**
-
-- The code that does this is in comments, so view the raw markdown to see what's going on.
-- When you view the Docsify website of the course, the tabs will appear.
-- They will NOT appear by just viewing on GitHub
-
-### Instructions
-
-1. Copy the appropriate schedule(s) from the above list with the correct dates
-1. View the example below and copy the commented out code to generate the tabs:
-    1. `<!-- tabs:start -->` - put at the beginning of where you want tabs
-    1. `<!-- omit in toc -->` - put at the beginning of each header within the tabs
-    1. `<!-- tabs:end -->` - put at the end of where you want tabs (i.e. at the end of the last schedule)
-
-**See below example**
-
-<!-- tabs:start -->
-<!-- omit in toc -->
-### **Section A: INSTRUCTOR NAME - HYBRID**
-
-**Course Dates:** Wednesday, October 21 – Wednesday, December 9, 2020 (8 weeks)
-
-**Class Times:** Monday, Wednesday at 9:30am–12:15pm (13 class sessions)
-
-Hybrid sections are a mixture of online and in person components.  In person sessions include labs and group work as noted on your schedule.  These sections will run according to the Hybrid Delivery Policy: [make.sc/hybrid-delivery-policy](make.sc/hybrid-delivery-policy)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Wed, Oct 21               | [Lesson 1] |
-|  2 |  Mon, Oct 26               | [Lesson 2] |
-|  3 |  Wed, Oct 28               | [Lesson 3] |
-|  - |  Mon, Nov 2              | **Vote! - Civic Responsibility Break** |
-|  4 |  Wed, Nov 4               | [Lesson 4] |
-|  5 |  Mon, Nov 9               | [Lesson 5] |
-|  6 |  Wed, Nov 11               | [Lesson 6] |
-|  7 |  Mon, Nov 16              | [Lesson 7] |
-|  8 |  Wed, Nov 18              | [Lesson 8] |
-|  9 |  Mon, Nov 23              | [Lesson 9] |
-|  - |  Wed, Nov 25               | **Holiday - Thanksgiving** |
-| 10 |  Mon, Nov 30              | [Lesson 10] |
-| 11 |  Wed, Dec 2              | [Lesson 11] |
-| 12 |  Mon, Dec 7              | [Lesson 12] |
-| 13 |  Wed, Dec 9                | Final Exam/Presentations |  
-
-<!-- omit in toc -->
-### **Section B: INSTRUCTOR NAME**
-
-**Course Dates:** Wednesday, October 21 – Wednesday, December 9, 2020 (8 weeks)
-
-**Class Times:** Monday, Wednesday at 9:30am–12:15pm (13 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Wed, Oct 21               | [Lesson 1] |
-|  2 |  Mon, Oct 26               | [Lesson 2] |
-|  3 |  Wed, Oct 28               | [Lesson 3] |
-|  - |  Mon, Nov 2              | **Vote! - Civic Responsibility Break** |
-|  4 |  Wed, Nov 4               | [Lesson 4] |
-|  5 |  Mon, Nov 9               | [Lesson 5] |
-|  6 |  Wed, Nov 11               | [Lesson 6] |
-|  7 |  Mon, Nov 16              | [Lesson 7] |
-|  8 |  Wed, Nov 18              | [Lesson 8] |
-|  9 |  Mon, Nov 23              | [Lesson 9] |
-|  - |  Wed, Nov 25               | **Holiday - Thanksgiving** |
-| 10 |  Mon, Nov 30              | [Lesson 10] |
-| 11 |  Wed, Dec 2              | [Lesson 11] |
-| 12 |  Mon, Dec 7              | [Lesson 12] |
-| 13 |  Wed, Dec 9                | Final Exam/Presentations |  
-
-<!-- tabs:end -->
 
 ## Assignment Schedule 
 
