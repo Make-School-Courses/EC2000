@@ -10,11 +10,7 @@
 
 ## Course Description
 
-This course emphasizes on critical thinking through research, evaluating source material, and synthesizing concepts for advanced argumentative rhetoric. Through engagement with scholarly texts and revision of their own work, students create persuasive rhetoric (oral, visual, and written) crafted from logic, evidence, study, and synthesis, applying appropriate citation, documentation, form, and medium.
-
-### Why you should know this (optional)
-
-Explain why students should care to learn the material presented in this class.
+This course emphasizes critical thinking through research, evaluating source material, and synthesizing concepts for advanced argumentative rhetoric. Through engagement with scholarly texts and revision of their own work, students create persuasive rhetoric (oral, visual, and written) crafted from logic, evidence, study, and synthesis, applying appropriate citation, documentation, form, and medium.
 
 ## Prerequisites:  
 
@@ -78,27 +74,6 @@ By the end of the course, you will be able to ...
 | 29 |  Tue, May 11                | Final Exam/Presentations |
 
 
-[Lesson 1]: Lessons/Lesson1.md
-[Lesson 2]: Lessons/Lesson2.md
-[Lesson 3]: Lessons/Lesson3.md
-[Lesson 4]: Lessons/Lesson4.md
-[Lesson 5]: Lessons/Lesson5.md
-[Lesson 6]: Lessons/Lesson6.md
-[Lesson 7]: Lessons/Lesson7.md
-[Lesson 8]: Lessons/Lesson8.md
-[Lesson 9]: Lessons/Lesson9.md
-[Lesson 10]: Lessons/Lesson10.md
-[Lesson 11]: Lessons/Lesson11.md
-[Lesson 12]: Lessons/Lesson12.md
-[Lesson 13]: Lessons/Lesson13.md
-[Lesson 14]: Lessons/Lesson14.md
-[Lesson 15]: Lessons/Lesson14.md
-[Lesson 16]: Lessons/Lesson14.md
-[Lesson 17]: Lessons/Lesson14.md
-[Lesson 18]: Lessons/Lesson14.md
-[Lesson 19]: Lessons/Lesson14.md
-[Lesson 20]: Lessons/Lesson14.md
-
 ## Assignment Schedule 
 
 **[INSTRUCTOR NOTE] REPLACE THE BELOW WITH LINKS TO YOUR ASSIGNMENTS, CORRECT DATES, AND SUBMISSION FORM**
@@ -110,6 +85,7 @@ By the end of the course, you will be able to ...
 | [Assignment 3](https://docs.google.com/document/d/1AO2tmV8q2Z4i7J1F1424VwA85MpovEN-WcRGo7tdEuY/edit)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
 | [Assignment 4](https://docs.google.com/document/d/1DByl9p3_TerNhBq-B-_rQVk4wXfIkBI3d2tKHbV2bXk/edit)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
 | [Assignment 5](https://docs.google.com/document/d/10QPvJqAgTWbQMjCGjjYQ8YFDjJGDsSI8NiRhek_mAOk/edit)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
+
 ## Class Assignments
 
 We will be using [Gradescope](gradescope.com), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
@@ -118,27 +94,14 @@ As soon as grades are posted, you will be notified immediately so that you can l
 
 Your Gradescope login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
 
-### Tutorials
-
-- [Do Cool Stuff Tutorial]()
-
-### Projects
-
-- [Project Template - Use to build your own project spec](https://github.com/Make-School-Labs/Project-Template)
 
 ## Evaluation
 
 To pass this course you must meet the following requirements:
 
-- Complete all required assignments 
+- Complete all required  assignments and blog posts tasks. 
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
-
-##  Information Resources
-
-Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
-
-- [make.sc/library](http://make.sc/library)
 
 ## Make School Course Policies
 
