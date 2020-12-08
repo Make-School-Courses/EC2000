@@ -96,7 +96,7 @@ As soon as grades are posted, you will be notified immediately so that you can l
 
 Your Gradescope login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
 
-2. [Blog Post Tracker] (https://docs.google.com/spreadsheets/d/1Ke6qFiWZ24YDSyDXOEuKepPlU-s5QXIbTXkuJOQHtCg/edit?usp=sharing)
+2. [Blog Post Tracker](https://docs.google.com/spreadsheets/d/1Ke6qFiWZ24YDSyDXOEuKepPlU-s5QXIbTXkuJOQHtCg/edit?usp=sharing)
 
 Complete your blog posts and post two comments by the end of class time on Thursday (2.30pm). Update your url links to the blog posts and comments on the tracker and on Gradescope. 
 
