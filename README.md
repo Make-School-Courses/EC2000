@@ -76,8 +76,6 @@ By the end of the course, you will be able to ...
 
 ## Assignment Schedule 
 
-**[INSTRUCTOR NOTE] REPLACE THE BELOW WITH LINKS TO YOUR ASSIGNMENTS, CORRECT DATES, AND SUBMISSION FORM**
-
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
 | [Assignment 1](https://docs.google.com/document/d/1whIKJTNXoHkKOaPgMDnZhCM9elyyQIvEWr8MWQjOtwM/edit)                      |  Tue, Oct 15  |  Tue, Oct 22 | 
@@ -100,13 +98,13 @@ Your Gradescope login is your Make School email, and your password can be change
 
 Complete your blog posts and post two comments by the end of class time on Thursday (2.30pm). Update your url links to the blog posts and comments on the tracker and on Gradescope. 
 
-Please be careful while updating your links on the tracker as to not move/edit/change your other classmates' entry
+Please be careful while updating your links on the tracker as to not move/edit/change your other classmates' entry.
 
 ## Evaluation
 
 To pass this course you must meet the following requirements:
 
-- Complete all required  assignments and blog posts tasks. 
+- Complete all required  assignments and blog posts tasks
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
