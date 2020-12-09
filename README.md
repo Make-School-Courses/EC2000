@@ -76,7 +76,7 @@ By the end of the course, you will be able to ...
 
 ## Assignment Schedule 
 
-|                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
+|                        Assignment                         | Date Assigned |   Due Date   |
 |:---------------------------------------------------------:|:-------------:|:------------:|
 | [Assignment 1](https://docs.google.com/document/d/1whIKJTNXoHkKOaPgMDnZhCM9elyyQIvEWr8MWQjOtwM/edit)                      |  Tue, Feb 2  |  Tue, Feb 9 | 
 | [Assignment 2](https://docs.google.com/document/d/1HVdV2ZZflj3YGMyePruyGLy_28QgPKeeA_uHc3XCO8Q/edit)                      |  Tue, Feb 23  |  Thu, Mar 4   | 
