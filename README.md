@@ -80,7 +80,7 @@ By the end of the course, you will be able to ...
 |:---------------------------------------------------------:|:-------------:|:------------:|
 | [Assignment 1](https://docs.google.com/document/d/1whIKJTNXoHkKOaPgMDnZhCM9elyyQIvEWr8MWQjOtwM/edit)                      |  Tue, Feb 2  |  Tue, Feb 9 | 
 | [Assignment 2](https://docs.google.com/document/d/1HVdV2ZZflj3YGMyePruyGLy_28QgPKeeA_uHc3XCO8Q/edit)                      |  Tue, Feb 23  |  Thu, Mar 4   | 
-| [Assignment 3](https://docs.google.com/document/d/1AO2tmV8q2Z4i7J1F1424VwA85MpovEN-WcRGo7tdEuY/edit)                      |  Tu, Mar 16   |  Tu, Mar 23   | 
+| [Assignment 3](https://docs.google.com/document/d/1AO2tmV8q2Z4i7J1F1424VwA85MpovEN-WcRGo7tdEuY/edit)                      |  Tue, Mar 16   |  Tue, Mar 23   | 
 | [Assignment 4](https://docs.google.com/document/d/1DByl9p3_TerNhBq-B-_rQVk4wXfIkBI3d2tKHbV2bXk/edit)                      |  Thu, Apr 8    |  Tue, Apr 20 (50% Draft) ; Tue, May 4 (Final Draft)   | 
 
 
