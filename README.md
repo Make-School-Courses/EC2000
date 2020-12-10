@@ -26,7 +26,7 @@ This course emphasizes critical thinking through research, evaluating source mat
 
 **Course Delivery**: online | 17 weeks | 29 sessions
 
-**Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours. 
+**Course Credits**: 4 units | 37.5 Seat Hours | 75 Total Hours
 
 ## Learning Outcomes
 
