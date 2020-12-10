@@ -20,9 +20,11 @@ This course emphasizes critical thinking through research, evaluating source mat
 
 **Zoom link**: [make.sc/regina-zoom](make.sc/regina-zoom)
 
-**Slack Channel**: #effectivecomm2-spring-2021
+**Slack Channel**: #effectivecomm2-spring-2021 (for responses to check-in activities and questions that your classmates can help clarify, e.g., where is the teaching slides? what assignments do we have?)
 
-**My Email**: regina@makeschool.com
+**My Personal Slack**: @reginayoong (for questions your classmates and TA have no answers to and/or emergency requests,e.g., I've to leave class because of a fire.) 
+
+**My Email**: regina@makeschool.com (for late submissions requests, extenuating circumstances explanations) 
 
 **Course Delivery**: online | 17 weeks | 29 sessions
 
