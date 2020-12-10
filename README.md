@@ -37,40 +37,40 @@ By the end of the course, you will be able to ...
 
 **Class Times:** Tuesday, Thursday at 12:30–2:30pm (29 class sessions)
 
-| Class |          Date          |                 Topics                  |                 Blog Posts              |
+| Class |          Date          |                 Topics                  |                 Class Work Assigned              |
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
 |  - |  Tue, Jan 19               | **No Class - MLK Day** |    
-|  1 |  Thu, Jan 21               | [Lesson 2] |
-|  2 |  Tue, Jan 26               | [Lesson 4] |
+|  1 |  Thu, Jan 21               | [Lesson 2] |-|
+|  2 |  Tue, Jan 26               | [Lesson 4] |-|
 |  3 |  Thu, Jan 28               | [Lesson 5] |            [Blog Post 1]  |
-|  4 |  Tue, Feb 2                | [Lesson 7] |
+|  4 |  Tue, Feb 2                | [Lesson 7] |-|
 |  5 |  Thu, Feb 4                | [Lesson 8] |            [Blog Post 2]  |
-|  6 |  Tue, Feb 9                | [Lesson 10] |
+|  6 |  Tue, Feb 9                | [Lesson 10] |-|
 |  7 |  Thu, Feb 11               | [Lesson 11] |            [Blog Post 3]  |
-|  8 |  Tue, Feb 16               | [Lesson 13] |
+|  8 |  Tue, Feb 16               | [Lesson 13] |-|
 |  9 |  Thu, Feb 18               | [Lesson 14] |            [Blog Post 4]  |
-| 10 |  Tue, Feb 23               | [Lesson 2] |
+| 10 |  Tue, Feb 23               | [Lesson 2] |-|
 | 11 |  Thu, Feb 25               | [Lesson 3] |            [Blog Post 5]  |
-| 12 |  Tue, Mar 2                | [Lesson 5] |
+| 12 |  Tue, Mar 2                | [Lesson 5] |-|
 | 13 |  Thu, Mar 4                | [Lesson 6] |            [Blog Post 6]  |
-| -  |  Tue, Mar 9                | **No Class - Spring Break** |
-| -  |  Thu, Mar 11               | **No Class - Spring Break** |
-| 14 |  Tue, Mar 16               | [Lesson 8] |
-| 15 |  Thu, Mar 18               | [Lesson 9] |            
-| 16 |  Tue, Mar 23               | [Lesson 11] |
+| -  |  Tue, Mar 9                | **No Class - Spring Break** |-|
+| -  |  Thu, Mar 11               | **No Class - Spring Break** |-|
+| 14 |  Tue, Mar 16               | [Lesson 8] |-|
+| 15 |  Thu, Mar 18               | [Lesson 9] |       -|     
+| 16 |  Tue, Mar 23               | [Lesson 11] |-|
 | 17 |  Thu, Mar 25               | [Lesson 12] |            [Blog Post 7]  |
-| 18 |  Tue, Mar 29               | [Lesson 14] |
+| 18 |  Tue, Mar 29               | [Lesson 14] |-|
 | -  |  Thu, Apr 1               |  **No Class - Cesar Chavez**  |
-| 19 |  Tue, Apr 6              | [Lesson 2] |
+| 19 |  Tue, Apr 6              | [Lesson 2] |-|
 | 20 |  Thu, Apr 8              | [Lesson 3] |            [Blog Post 8]  |
-| 21 |  Tue, Apr 13             | [Lesson 5] |
-| 22 |  Thu, Apr 15             | [Lesson 6] |
-| 23 |  Tue, Apr 20             | [Lesson 8] |
+| 21 |  Tue, Apr 13             | [Lesson 5] |-|
+| 22 |  Thu, Apr 15             | [Lesson 6] |-|
+| 23 |  Tue, Apr 20             | [Lesson 8] |-|
 | 24 |  Thu, Apr 22             | [Lesson 9] |            [Blog Post 9]  |
-| 25 |  Tue, Apr 27             | **No Class - Conference Week (Individual Meet with Instructor)** |
-| 26 |  Thu, Apr 29             | **No Class - Conference Week (Individual Meet with Instructor)**  |
-| 27 |  Tue, May 4              | [Lesson 14] |
-| 28 |  Thu, May 6               | [Lesson 1]  |
+| 25 |  Tue, Apr 27             | **No Class - Conference Week (Individual Meet with Instructor)** |-|
+| 26 |  Thu, Apr 29             | **No Class - Conference Week (Individual Meet with Instructor)**  |-|
+| 27 |  Tue, May 4              | [Lesson 14] |-|
+| 28 |  Thu, May 6               | [Lesson 1]  |-|
 | 29 |  Tue, May 11                | Final Exam/Presentations |[Blog Post 10]  |
 
 
@@ -86,9 +86,9 @@ By the end of the course, you will be able to ...
 
 ## Class Assignments
 
-1. Gradescope
+1. [Gradescope](gradescope.com)
 
-We will be using [Gradescope](gradescope.com), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
+All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.
 
 As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
 
@@ -100,6 +100,8 @@ Complete your blog posts and post two comments by the end of class time on Thurs
 
 Please be careful while updating your links on the tracker as to not move/edit/change your other classmates' entry.
 
+We will use Medium to write the blog posts. Here is the blog posts [rubric](https://docs.google.com/document/d/1YQN9aUjRO-LQkXhPRWeGizRnVaZ_n53N3VFYjyzeeME/edit). 
+
 ## Evaluation
 
 To pass this course you must meet the following requirements:
@@ -107,6 +109,7 @@ To pass this course you must meet the following requirements:
 - Complete all required  assignments and blog posts tasks
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
+- Late Assignments must be agreed between you and I in via Slack/email **3 days** before the due date. 
 
 ## Make School Course Policies
 
