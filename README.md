@@ -108,9 +108,9 @@ Your Gradescope login is your Make School email, and your password can be change
 
 2. [Blog Post Tracker](https://docs.google.com/spreadsheets/d/1Ke6qFiWZ24YDSyDXOEuKepPlU-s5QXIbTXkuJOQHtCg/edit?usp=sharing)
 
-Complete your blog posts and post two comments by the end of class time on Thursday (2.30pm). Update your url links to the blog posts and comments on the tracker and on Gradescope. 
+Complete your blog posts and post two comments by the end of class time on Thursday (2.30pm). 
 
-Please be careful while updating your links on the tracker as to not move/edit/change your other classmates' entry.
+Update your url links to your blog posts and comment on the **blog post tracker**(where your classmates can access your blog posts to comment on them) and on **Gradescope** (where I can grade them).Please be careful while updating your links on the tracker as to not move/edit/change your other classmates' entry.
 
 We will use Medium to write the blog posts. Here is the blog posts [rubric](https://docs.google.com/document/d/1YQN9aUjRO-LQkXhPRWeGizRnVaZ_n53N3VFYjyzeeME/edit). 
 
