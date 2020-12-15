@@ -125,7 +125,7 @@ To pass this course you must meet the following requirements:
 - Make up all classwork from all absences
 - Late Assignments must be agreed between you and I in via Slack/email **3 days** before the due date. 
 
-## [Code of Conduct, Equity, and Inclusion](https://make.sc/code-of-conduct)
+**[Code of Conduct, Equity, and Inclusion](https://make.sc/code-of-conduct)**
 
 Make School nurtures attitudes and behaviors that promote global awareness, inclusivity, and respect for the dignity of each person regardless of race, ethnicity, gender, sexual orientation, age, socioeconomic status, culture, political conviction, religion, or disability. We are committed to creating an environment in which every individual can work, study, and live without feeling excluded, unsafe, or harassed.
 
