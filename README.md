@@ -87,8 +87,10 @@ By the end of the course, you will be able to ...
 | 28 |  Thu, May 6               | [Lesson 1]  |-|
 | 29 |  Tue, May 11                | Final Exam/Presentations |[Blog Post 10]  |
 
+**Tue, May 11, 11.59pm PST is the final day to submit all late assignments for the semester**
 
-## Assignment Schedule 
+## Assignment Schedule
+All assignments are due **11.59pm PST** on the due date stated. 
 
 |                        Assignment                         | Date Assigned |   Due Date   |
 |:---------------------------------------------------------:|:-------------:|:------------:|
@@ -123,7 +125,7 @@ To pass this course you must meet the following requirements:
 - Complete all required  assignments and blog posts tasks
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
-- Late Assignments must be agreed between you and I in via Slack/email **3 days** before the due date. 
+- Late Assignments must be agreed between you and I in via Slack/email **3 days** before the due date
 
 **[Code of Conduct, Equity, and Inclusion](https://make.sc/code-of-conduct)**
 
