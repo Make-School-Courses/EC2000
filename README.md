@@ -18,23 +18,23 @@ This course emphasizes critical thinking through research, evaluating source mat
 
 ## Course Specifics
 
-**Zoom link**: [make.sc/regina-zoom](make.sc/regina-zoom)
+**Zoom link**: [make.sc/regina-zoom](make.sc/regina-zoom) or [make.sc/justine-zoom](make.sc/justine-zoom)
 
 This platform will be used for Q&As during check-in activities and burning questions your classmates can help clarify, e.g., "Where is the teaching slides?" or "What time is class again?" 
 
-**My Personal Slack**: @reginayoong 
+**My Personal Slack**: @reginayoong or @justinemeyr
 
-If you have questions your classmates and TA (@LaurenDutton) have no answers to, e.g., "Am I on track to pass the course?" and/or emergency requests, e.g., "I have to leave class because of a fire." DM me on slack. 
+If you have questions your classmates and TA (@single or @tyler_holland) have no answers to, e.g., "Am I on track to pass the course?" and/or emergency requests, e.g., "I have to leave class because of a fire." DM me on slack. 
 
 You can expect a reply from me within 24-hours; Likewise, I expect a response from you within 24-hours if I messaged you about something important personally. 
 
-**My Email**: regina@makeschool.com 
+**My Email**: regina@makeschool.com or justine@makeschool.com
 
 Email me regarding late submissions requests and/or explanations of extenuating circumstances. 
 
-**Course Delivery**: online | 17 weeks | 29 sessions
+**Course Delivery**: Bichronous| 9 weeks | 16-18 sessions
 
-**Course Credits**: 4 units | 37.5 Seat Hours | 75 Total Hours
+**Course Credits**: S&L - Bichronous: 4 units | 27 Contact Hours/Term | 142 Non-Contact Hours/Term | 169 Total Hours/Term
 
 ## Learning Outcomes
 
@@ -47,57 +47,69 @@ By the end of the course, you will be able to ...
 
 ## Schedule
 
-**Course Dates:** Tuesday, January 19 – Tuesday, May 11, 2020 (17 weeks)
+**Course Dates:** Monday, May 31 – Wednesday, July 28, 2021 (9 weeks)
 
-**Class Times:** Tuesday, Thursday at 12:30–2:30pm (29 class sessions)
+**Class Times:** Monday, Wednesday at 4:00pm–5:30pm (16 class sessions)
 
-| Class |          Date          |                 Topics                  |                 Class Work Assigned              |
+| Class |          Date          |                 Topics                  |Asynchronous Activities|
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
-|  - |  Tue, Jan 19               | **No Class - MLK Day** |    
-|  1 |  Thu, Jan 21               | [Lesson 2] |-|
-|  2 |  Tue, Jan 26               | [Lesson 4] |-|
-|  3 |  Thu, Jan 28               | [Lesson 5] |            [Blog Post 1]  |
-|  4 |  Tue, Feb 2                | [Lesson 7] |-|
-|  5 |  Thu, Feb 4                | [Lesson 8] |            [Blog Post 2]  |
-|  6 |  Tue, Feb 9                | [Lesson 10] |-|
-|  7 |  Thu, Feb 11               | [Lesson 11] |            [Blog Post 3]  |
-|  8 |  Tue, Feb 16               | [Lesson 13] |-|
-|  9 |  Thu, Feb 18               | [Lesson 14] |            [Blog Post 4]  |
-| 10 |  Tue, Feb 23               | [Lesson 2] |-|
-| 11 |  Thu, Feb 25               | [Lesson 3] |            [Blog Post 5]  |
-| 12 |  Tue, Mar 2                | [Lesson 5] |-|
-| 13 |  Thu, Mar 4                | [Lesson 6] |            [Blog Post 6]  |
-| -  |  Tue, Mar 9                | **No Class - Spring Break** |-|
-| -  |  Thu, Mar 11               | **No Class - Spring Break** |-|
-| 14 |  Tue, Mar 16               | [Lesson 8] |-|
-| 15 |  Thu, Mar 18               | [Lesson 9] |       -|     
-| 16 |  Tue, Mar 23               | [Lesson 11] |-|
-| 17 |  Thu, Mar 25               | [Lesson 12] |            [Blog Post 7]  |
-| 18 |  Tue, Mar 29               | [Lesson 14] |-|
-| -  |  Thu, Apr 1               |  **No Class - Cesar Chavez**  |
-| 19 |  Tue, Apr 6              | [Lesson 2] |-|
-| 20 |  Thu, Apr 8              | [Lesson 3] |            [Blog Post 8]  |
-| 21 |  Tue, Apr 13             | [Lesson 5] |-|
-| 22 |  Thu, Apr 15             | [Lesson 6] |-|
-| 23 |  Tue, Apr 20             | [Lesson 8] |-|
-| 24 |  Thu, Apr 22             | [Lesson 9] |            [Blog Post 9]  |
-| 25 |  Tue, Apr 27             | **No Class - Conference Week (Individual Meet with Instructor)** |-|
-| 26 |  Thu, Apr 29             | **No Class - Conference Week (Individual Meet with Instructor)**  |-|
-| 27 |  Tue, May 4              | [Lesson 14] |-|
-| 28 |  Thu, May 6               | [Lesson 1]  |-|
-| 29 |  Tue, May 11                | Final Exam/Presentations |[Blog Post 10]  |
+|  - |  Mon, May 31         | **No Class - Memorial Day** |
+|  1 |  Wed, June 2         | [Lesson 1] |
+|  2 |  Mon, June 7         | [Lesson 2] |
+|  3 |  Wed, June 9         | [Lesson 3] |
+|  4 |  Mon, June 14        | [Lesson 4] |
+|  5 |  Wed, June 16        | [Lesson 5] |
+|  6 |  Mon, June 21        | [Lesson 6] |
+|  7 |  Wed, June 23        | [Lesson 7] |
+|  8 |  Mon, June 28        | [Lesson 8] |
+|  9 |  Wed, June 30        | [Lesson 9] |
+| -  |  Mon, July 5         | **No Class - Independence Day Observed** |
+| 10 |  Wed, July 7         | [Lesson 10] |
+| 11 |  Mon, July 12        | [Lesson 11] |
+| 12 |  Wed, July 14        | [Lesson 12] |
+| 13 |  Mon, July 19        | [Lesson 13] |
+| 14 |  Wed, July 21        | [Lesson 14] |
+| 15 |  Mon, July 26        | [Lesson 15] |
+| 16 |  Wed, July 28        | Final Exam/Presentations |
 
 **Tue, May 11, 11.59pm PST is the final day to submit all late assignments for the semester**
+
+**Course Dates:** Tuesday, June 1 – Thursday, July 29, 2021 (9 weeks)
+
+**Class Times:** Tuesday, Thursday at 4:00pm–5:30pm (18 class sessions)
+
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  1 |  Tue, June 1         | [Lesson 1] |
+|  2 |  Thu, June 3         | [Lesson 2] |
+|  3 |  Tue, June 8         | [Lesson 3] |
+|  4 |  Thu, June 10        | [Lesson 4] |
+|  5 |  Tue, June 15        | [Lesson 5] |
+|  6 |  Thu, June 17        | [Lesson 6] |
+|  7 |  Tue, June 22        | [Lesson 7] |
+|  8 |  Thu, June 24        | [Lesson 8] |
+|  9 |  Tue, June 29        | [Lesson 9] |
+| 10 |  Thu, July 1         | [Lesson 10] |
+| 11 |  Tue, July 6         | [Lesson 11] |
+| 12 |  Thu, July 8         | [Lesson 12] |
+| 13 |  Tue, July 13        | [Lesson 13] |
+| 14 |  Thu, July 15        | [Lesson 14] |
+| 15 |  Tue, July 20        | [Lesson 15] |
+| 16 |  Thu, July 22        | [Lesson 16] |
+| 17 |  Tue, July 27        | [Lesson 17] |
+| 18 |  Thu, July 29        | Final Exam/Presentations |
 
 ## Assignment Schedule
 All assignments are due **11.59pm PST** on the due date stated. 
 
+[TO BE UPDATED]
+
 |                        Assignment                         | Date Assigned |   Due Date   |
 |:---------------------------------------------------------:|:-------------:|:------------:|
-| [Assignment 1](https://docs.google.com/document/d/1whIKJTNXoHkKOaPgMDnZhCM9elyyQIvEWr8MWQjOtwM/edit)                      |  Tue, Feb 2  |  Tue, Feb 9 | 
-| [Assignment 2](https://docs.google.com/document/d/1HVdV2ZZflj3YGMyePruyGLy_28QgPKeeA_uHc3XCO8Q/edit)                      |  Tue, Feb 23  |  Thu, Mar 4   | 
-| [Assignment 3](https://docs.google.com/document/d/1AO2tmV8q2Z4i7J1F1424VwA85MpovEN-WcRGo7tdEuY/edit)                      |  Tue, Mar 16   |  Tue, Mar 23   | 
-| [Assignment 4](https://docs.google.com/document/d/1DByl9p3_TerNhBq-B-_rQVk4wXfIkBI3d2tKHbV2bXk/edit)                      |  Tue, Apr 13    |  Tue, Apr 20 (50% Draft) ; Tue, May 4 (Final Draft)   | 
+| [Assignment 1]                      |  Tue, Feb 2  |  Tue, Feb 9 | 
+| [Assignment 2]                    |  Tue, Feb 23  |  Thu, Mar 4   | 
+| [Assignment 3]                   |  Tue, Mar 16   |  Tue, Mar 23   | 
+| [Assignment 4]                   |  Tue, Apr 13    |  Tue, Apr 20 (50% Draft) ; Tue, May 4 (Final Draft)   | 
 
 
 ## Class Assignments
@@ -110,13 +122,13 @@ As soon as grades are posted, you will be notified immediately so that you can l
 
 Your Gradescope login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
 
-2. [Blog Post Tracker](https://docs.google.com/spreadsheets/d/1Ke6qFiWZ24YDSyDXOEuKepPlU-s5QXIbTXkuJOQHtCg/edit?usp=sharing)
+2. [Flip Grid Tracker](https://docs.google.com/spreadsheets/d/1Ke6qFiWZ24YDSyDXOEuKepPlU-s5QXIbTXkuJOQHtCg/edit?usp=sharing)
 
-Complete your blog posts and post two comments by the end of class time on Thursday (2.30pm). 
+[TO BE UPDATED]Complete your blog posts and post two comments by the end of class time on Thursday (2.30pm). 
 
 Update your url links to your blog posts and comment on the **blog post tracker**(where your classmates can access your blog posts to comment on them) and on **Gradescope** (where I can grade them).Please be careful while updating your links on the tracker as to not move/edit/change your other classmates' entry.
 
-We will use Medium to write the blog posts. Here is the blog posts [rubric](https://docs.google.com/document/d/1YQN9aUjRO-LQkXhPRWeGizRnVaZ_n53N3VFYjyzeeME/edit). 
+* [TO BE UPDATED] We will use Medium to write the blog posts. Here is the blog posts [rubric](https://docs.google.com/document/d/1YQN9aUjRO-LQkXhPRWeGizRnVaZ_n53N3VFYjyzeeME/edit). 
 
 ## Evaluation
 
