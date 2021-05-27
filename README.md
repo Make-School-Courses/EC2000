@@ -54,7 +54,7 @@ By the end of the course, you will be able to ...
 | Class |          Date          |                 Topics                  |Asynchronous Activities|
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
 |  - |  Mon, May 31         | **No Class - Memorial Day** |
-|  1 |  Wed, June 2         | [Lesson 1] |
+|  1 |  Wed, June 2         | [Lesson 1](https://docs.google.com/presentation/d/1E-ohSWMWDK4iDpwZ7fxLgyMVwpn8DUO5H1W4Q4Bx7_8/edit#slide=id.g4cf79cf4e3_0_202) |
 |  2 |  Mon, June 7         | [Lesson 2] |
 |  3 |  Wed, June 9         | [Lesson 3] |
 |  4 |  Mon, June 14        | [Lesson 4] |
@@ -81,7 +81,7 @@ By the end of the course, you will be able to ...
 | Class |          Date          |                 Topics                  |Asynchronous Activities|
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
 |  1 |  Tue, June 1         | [PreLesson] | 
-|  2 |  Thu, June 3         | [Lesson 1] |
+|  2 |  Thu, June 3         | [Lesson 1](https://docs.google.com/presentation/d/1E-ohSWMWDK4iDpwZ7fxLgyMVwpn8DUO5H1W4Q4Bx7_8/edit#slide=id.g4cf79cf4e3_0_202) |
 |  3 |  Tue, June 8         | [Lesson 2] |
 |  4 |  Thu, June 10        | [Lesson 3] |
 |  5 |  Tue, June 15        | [Lesson 4] |
