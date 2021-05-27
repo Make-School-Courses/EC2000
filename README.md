@@ -101,46 +101,43 @@ SECTION B: REGINA YOONG
 | 15 |  Mon, July 26        | [Lesson 15] |
 | 16 |  Wed, July 28        | Final Exam/Presentations |
 
-**Tue, May 11, 11.59pm PST is the final day to submit all late assignments for the semester**
+**Friday, July 30, 5.00pm PST is the final day to submit all late assignments for the summer**
 
 ## Assignment Schedule
-All assignments are due **11.59pm PST** on the due date stated. 
+All assignments are due **5.00pm PST** on the due date stated. 
 
 [TO BE UPDATED]
 
 |                        Assignment                         | Date Assigned |   Due Date   |
 |:---------------------------------------------------------:|:-------------:|:------------:|
-| [Assignment 1:Self Presentation](https://docs.google.com/document/d/1XNYBwqi-V1wcPYTRu7wiDC8HZE2ISC-caJGpeghDHfw/edit#)                     |  Tue, Feb 2  |  Tue, Feb 9 | 
-| [Assignment 2: Mock Interviews](https://docs.google.com/document/d/1PkHHSJ5jSlWpV4nx6Bbw8JPP7L7ILKQChK_3IjHLf-Q/edit#heading=h.xyd1e4cldpqb)                    |  Tue, Feb 23  |  Thu, Mar 4   | 
-| [Assignment 3: Informational Interviews](https://docs.google.com/document/d/1dCKUAdqbkP3qN9Wuen_zuSNFEuCf1YLLiwTyAKqTQWU/edit#heading=h.xyd1e4cldpqb)                   |  Tue, Mar 16   |  Tue, Mar 23   | 
-| [Assignment 4: Youtube Video](https://docs.google.com/document/d/1V0JeJOY-Q-9qwx2i1T28W8X7lhuneghD4UWRuBpkhew/edit#heading=h.xyd1e4cldpqb)                   |  Tue, Apr 13    |  Tue,  | 
+| [Assignment 1:Self Presentation](https://docs.google.com/document/d/1XNYBwqi-V1wcPYTRu7wiDC8HZE2ISC-caJGpeghDHfw/edit#)                     |  June 2-3  |  June 7-10 | 
+| [Assignment 2: Mock Interviews](https://docs.google.com/document/d/1PkHHSJ5jSlWpV4nx6Bbw8JPP7L7ILKQChK_3IjHLf-Q/edit#heading=h.xyd1e4cldpqb)                    |  TBC  |  TBC  | 
+| [Assignment 3: Informational Interviews](https://docs.google.com/document/d/1dCKUAdqbkP3qN9Wuen_zuSNFEuCf1YLLiwTyAKqTQWU/edit#heading=h.xyd1e4cldpqb)                   |  TBC  |  TBC  | 
+| [Assignment 4: Youtube Video](https://docs.google.com/document/d/1V0JeJOY-Q-9qwx2i1T28W8X7lhuneghD4UWRuBpkhew/edit#heading=h.xyd1e4cldpqb)                   |  TBC    |  TBC  | 
 
 
 ## Class Assignments
 
 1. [Gradescope](gradescope.com)
 
-All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.
+All major assignments (Assignment 1 to 4) should be uploaded on Gradescope. 
 
 As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
 
 Your Gradescope login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
 
-2. [Flip Grid Tracker](https://docs.google.com/spreadsheets/d/1LncdISPMMowTlhUUzhqmDSO8RxN364IIbaznfT4Em5I/edit#gid=0)
+2. Flip Grid
 
 Complete your video and upload it on Flip Grid before the next class.
 
-Please be careful while updating your links on the tracker as to not move/edit/change your other classmates' entry.
-
-* Here is the [rubric](https://docs.google.com/document/d/1S2ST7b6a5z0gJga-BL7oiJ0mvXwIPHIuRyU8dw91iOs/edit). 
+Here is the [rubric](https://docs.google.com/document/d/1S2ST7b6a5z0gJga-BL7oiJ0mvXwIPHIuRyU8dw91iOs/edit). 
 
 ## Evaluation
 
 To pass this course you must meet the following requirements:
 
-- Complete all required  assignments and blog posts tasks
+- Complete all required major assignments and flip grid activities
 - Actively participate in class and abide by the attendance policy
-- Make up all classwork from all absences
 - Late Assignments must be agreed between you and I in via Slack/email **3 days** before the due date
 
 **[Code of Conduct, Equity, and Inclusion](https://make.sc/code-of-conduct)**
