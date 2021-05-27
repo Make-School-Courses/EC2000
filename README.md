@@ -76,27 +76,27 @@ By the end of the course, you will be able to ...
 
 **Course Dates:** Tuesday, June 1 – Thursday, July 29, 2021 (9 weeks)
 
-**Class Times:** Tuesday, Thursday at 4:00pm–5:30pm (18 class sessions)
+**Class Times:** Tuesday, Thursday at 4:00pm–5:30pm (16 class sessions)
 
 | Class |          Date          |                 Topics                  |Asynchronous Activities|
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
-|  1 |  Tue, June 1         | [Lesson 1] | 
-|  2 |  Thu, June 3         | [Lesson 2] |
-|  3 |  Tue, June 8         | [Lesson 3] |
-|  4 |  Thu, June 10        | [Lesson 4] |
-|  5 |  Tue, June 15        | [Lesson 5] |
-|  6 |  Thu, June 17        | [Lesson 6] |
-|  7 |  Tue, June 22        | [Lesson 7] |
-|  8 |  Thu, June 24        | [Lesson 8] |
-|  9 |  Tue, June 29        | [Lesson 9] |
-| 10 |  Thu, July 1         | [Lesson 10] |
-| 11 |  Tue, July 6         | [Lesson 11] |
-| 12 |  Thu, July 8         | [Lesson 12] |
-| 13 |  Tue, July 13        | [Lesson 13] |
-| 14 |  Thu, July 15        | [Lesson 14] |
-| 15 |  Tue, July 20        | [Lesson 15] |
-| 16 |  Thu, July 22        | [Lesson 16] |
-| 17 |  Tue, July 27        | [Lesson 17] |
+|  1 |  Tue, June 1         | [PreLesson] | 
+|  2 |  Thu, June 3         | [Lesson 1] |
+|  3 |  Tue, June 8         | [Lesson 2] |
+|  4 |  Thu, June 10        | [Lesson 3] |
+|  5 |  Tue, June 15        | [Lesson 4] |
+|  6 |  Thu, June 17        | [Lesson 5] |
+|  7 |  Tue, June 22        | [Lesson 6] |
+|  8 |  Thu, June 24        | [Lesson 7] |
+|  9 |  Tue, June 29        | [Lesson 8] |
+| 10 |  Thu, July 1         | [Lesson 9] |
+| 11 |  Tue, July 6         | **No Class - Independence Day Observed** |
+| 12 |  Thu, July 8         | [Lesson 10] |
+| 13 |  Tue, July 13        | [Lesson 11] |
+| 14 |  Thu, July 15        | [Lesson 12] |
+| 15 |  Tue, July 20        | [Lesson 13] |
+| 16 |  Thu, July 22        | [Lesson 14] |
+| 17 |  Tue, July 27        | [Lesson 15] |
 | 18 |  Thu, July 29        | Final Exam/Presentations |
 
 ## Assignment Schedule
