@@ -78,9 +78,9 @@ By the end of the course, you will be able to ...
 
 **Class Times:** Tuesday, Thursday at 4:00pm–5:30pm (18 class sessions)
 
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, June 1         | [Lesson 1] |
+| Class |          Date          |                 Topics                  |Asynchronous Activities|
+|:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
+|  1 |  Tue, June 1         | [Lesson 1] | 
 |  2 |  Thu, June 3         | [Lesson 2] |
 |  3 |  Tue, June 8         | [Lesson 3] |
 |  4 |  Thu, June 10        | [Lesson 4] |
