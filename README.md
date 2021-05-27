@@ -18,17 +18,17 @@ This course emphasizes critical thinking through research, evaluating source mat
 
 ## Course Specifics
 
-**Zoom link**: [make.sc/regina-zoom](make.sc/regina-zoom) or [make.sc/justine-zoom](make.sc/justine-zoom)
+**Zoom link**: Section A (Tu/Th) [make.sc/justine-zoom](make.sc/justine-zoom); Section B (M/W) [make.sc/regina-zoom](make.sc/regina-zoom) 
 
 This platform will be used for Q&As during check-in activities and burning questions your classmates can help clarify, e.g., "Where is the teaching slides?" or "What time is class again?" 
 
-**My Personal Slack**: @reginayoong or @justinemeyr
+**Personal Slack**: Section A (Tu/Th) @justinemeyr | Section B (M/W) @reginayoong
 
-If you have questions your classmates and TA (@single or @tyler_holland) have no answers to, e.g., "Am I on track to pass the course?" and/or emergency requests, e.g., "I have to leave class because of a fire." DM me on slack. 
+If you have questions your classmates and TA (@tyler_holland or @single) have no answers to, e.g., "Am I on track to pass the course?" and/or emergency requests, e.g., "I have to leave class because of a fire." DM me on slack. 
 
 You can expect a reply from me within 24-hours; Likewise, I expect a response from you within 24-hours if I messaged you about something important personally. 
 
-**My Email**: regina@makeschool.com or justine@makeschool.com
+**My Email**: justine@makeschool.com | regina@makeschool.com
 
 Email me regarding late submissions requests and/or explanations of extenuating circumstances. 
 
@@ -46,6 +46,35 @@ By the end of the course, you will be able to ...
 1. Evaluate source material, synthesize new concepts, and apply deduction, induction, and/or logic for advanced argumentative research purposes; use proper citation and documentation
 
 ## Schedule
+
+SECTION A: JUSTINE MEYR
+
+**Course Dates:** Tuesday, June 1 – Thursday, July 29, 2021 (9 weeks)
+
+**Class Times:** Tuesday, Thursday at 4:00pm–5:30pm (16 class sessions)
+
+| Class |          Date          |                 Topics                  |Asynchronous Activities|
+|:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
+|  1 |  Tue, June 1         | [PreLesson] | 
+|  2 |  Thu, June 3         | [Lesson 1](https://docs.google.com/presentation/d/1E-ohSWMWDK4iDpwZ7fxLgyMVwpn8DUO5H1W4Q4Bx7_8/edit#slide=id.g4cf79cf4e3_0_202) |
+|  3 |  Tue, June 8         | [Lesson 2](https://docs.google.com/presentation/d/14vr1HV18QgtQslccgOkVfkfGS2TxgncVEEokOf2YdQ4/edit#slide=id.g4cf79cf4e3_0_214) |
+|  4 |  Thu, June 10        | [Lesson 3](https://docs.google.com/presentation/d/14vr1HV18QgtQslccgOkVfkfGS2TxgncVEEokOf2YdQ4/edit#slide=id.g4cf79cf4e3_0_214) |
+|  5 |  Tue, June 15        | [Lesson 4] |
+|  6 |  Thu, June 17        | [Lesson 5] |
+|  7 |  Tue, June 22        | [Lesson 6] |
+|  8 |  Thu, June 24        | [Lesson 7] |
+|  9 |  Tue, June 29        | [Lesson 8] |
+| 10 |  Thu, July 1         | [Lesson 9] |
+| 11 |  Tue, July 6         | **No Class - Independence Day Observed** |
+| 12 |  Thu, July 8         | [Lesson 10] |
+| 13 |  Tue, July 13        | [Lesson 11] |
+| 14 |  Thu, July 15        | [Lesson 12] |
+| 15 |  Tue, July 20        | [Lesson 13] |
+| 16 |  Thu, July 22        | [Lesson 14] |
+| 17 |  Tue, July 27        | [Lesson 15] |
+| 18 |  Thu, July 29        | Final Exam/Presentations |
+
+SECTION B: REGINA YOONG
 
 **Course Dates:** Monday, May 31 – Wednesday, July 28, 2021 (9 weeks)
 
@@ -74,31 +103,6 @@ By the end of the course, you will be able to ...
 
 **Tue, May 11, 11.59pm PST is the final day to submit all late assignments for the semester**
 
-**Course Dates:** Tuesday, June 1 – Thursday, July 29, 2021 (9 weeks)
-
-**Class Times:** Tuesday, Thursday at 4:00pm–5:30pm (16 class sessions)
-
-| Class |          Date          |                 Topics                  |Asynchronous Activities|
-|:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
-|  1 |  Tue, June 1         | [PreLesson] | 
-|  2 |  Thu, June 3         | [Lesson 1](https://docs.google.com/presentation/d/1E-ohSWMWDK4iDpwZ7fxLgyMVwpn8DUO5H1W4Q4Bx7_8/edit#slide=id.g4cf79cf4e3_0_202) |
-|  3 |  Tue, June 8         | [Lesson 2](https://docs.google.com/presentation/d/14vr1HV18QgtQslccgOkVfkfGS2TxgncVEEokOf2YdQ4/edit#slide=id.g4cf79cf4e3_0_214) |
-|  4 |  Thu, June 10        | [Lesson 3](https://docs.google.com/presentation/d/14vr1HV18QgtQslccgOkVfkfGS2TxgncVEEokOf2YdQ4/edit#slide=id.g4cf79cf4e3_0_214) |
-|  5 |  Tue, June 15        | [Lesson 4] |
-|  6 |  Thu, June 17        | [Lesson 5] |
-|  7 |  Tue, June 22        | [Lesson 6] |
-|  8 |  Thu, June 24        | [Lesson 7] |
-|  9 |  Tue, June 29        | [Lesson 8] |
-| 10 |  Thu, July 1         | [Lesson 9] |
-| 11 |  Tue, July 6         | **No Class - Independence Day Observed** |
-| 12 |  Thu, July 8         | [Lesson 10] |
-| 13 |  Tue, July 13        | [Lesson 11] |
-| 14 |  Thu, July 15        | [Lesson 12] |
-| 15 |  Tue, July 20        | [Lesson 13] |
-| 16 |  Thu, July 22        | [Lesson 14] |
-| 17 |  Tue, July 27        | [Lesson 15] |
-| 18 |  Thu, July 29        | Final Exam/Presentations |
-
 ## Assignment Schedule
 All assignments are due **11.59pm PST** on the due date stated. 
 
@@ -122,13 +126,13 @@ As soon as grades are posted, you will be notified immediately so that you can l
 
 Your Gradescope login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
 
-2. [Flip Grid Tracker](https://docs.google.com/spreadsheets/d/1Ke6qFiWZ24YDSyDXOEuKepPlU-s5QXIbTXkuJOQHtCg/edit?usp=sharing)
+2. [Flip Grid Tracker](https://docs.google.com/spreadsheets/d/1LncdISPMMowTlhUUzhqmDSO8RxN364IIbaznfT4Em5I/edit#gid=0)
 
-[TO BE UPDATED]Complete your blog posts and post two comments by the end of class time on Thursday (2.30pm). 
+Complete your video and upload it on Flip Grid before the next class.
 
-Update your url links to your blog posts and comment on the **blog post tracker**(where your classmates can access your blog posts to comment on them) and on **Gradescope** (where I can grade them).Please be careful while updating your links on the tracker as to not move/edit/change your other classmates' entry.
+Please be careful while updating your links on the tracker as to not move/edit/change your other classmates' entry.
 
-* [TO BE UPDATED] We will use Medium to write the blog posts. Here is the blog posts [rubric](https://docs.google.com/document/d/1YQN9aUjRO-LQkXhPRWeGizRnVaZ_n53N3VFYjyzeeME/edit). 
+* Here is the [rubric](https://docs.google.com/document/d/1S2ST7b6a5z0gJga-BL7oiJ0mvXwIPHIuRyU8dw91iOs/edit). 
 
 ## Evaluation
 
