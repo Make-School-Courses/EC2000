@@ -54,9 +54,9 @@ By the end of the course, you will be able to ...
 | Class |          Date          |                 Topics                  |Asynchronous Activities|
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
 |  - |  Mon, May 31         | **No Class - Memorial Day** |
-|  1 |  Wed, June 2         | [Lesson 1](https://docs.google.com/presentation/d/1E-ohSWMWDK4iDpwZ7fxLgyMVwpn8DUO5H1W4Q4Bx7_8/edit#slide=id.g4cf79cf4e3_0_202) |
-|  2 |  Mon, June 7         | [Lesson 2] |
-|  3 |  Wed, June 9         | [Lesson 3] |
+|  1 |  Wed, June 2         | [Introduction](https://docs.google.com/presentation/d/1E-ohSWMWDK4iDpwZ7fxLgyMVwpn8DUO5H1W4Q4Bx7_8/edit#slide=id.g4cf79cf4e3_0_202) |
+|  2 |  Mon, June 7         | [Self-Presentation](https://docs.google.com/presentation/d/14vr1HV18QgtQslccgOkVfkfGS2TxgncVEEokOf2YdQ4/edit#slide=id.g4cf79cf4e3_0_214) |
+|  3 |  Wed, June 9         | [Self-Presentation (Con.t)](https://docs.google.com/presentation/d/14vr1HV18QgtQslccgOkVfkfGS2TxgncVEEokOf2YdQ4/edit#slide=id.g4cf79cf4e3_0_214) |
 |  4 |  Mon, June 14        | [Lesson 4] |
 |  5 |  Wed, June 16        | [Lesson 5] |
 |  6 |  Mon, June 21        | [Lesson 6] |
@@ -82,8 +82,8 @@ By the end of the course, you will be able to ...
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
 |  1 |  Tue, June 1         | [PreLesson] | 
 |  2 |  Thu, June 3         | [Lesson 1](https://docs.google.com/presentation/d/1E-ohSWMWDK4iDpwZ7fxLgyMVwpn8DUO5H1W4Q4Bx7_8/edit#slide=id.g4cf79cf4e3_0_202) |
-|  3 |  Tue, June 8         | [Lesson 2] |
-|  4 |  Thu, June 10        | [Lesson 3] |
+|  3 |  Tue, June 8         | [Lesson 2](https://docs.google.com/presentation/d/14vr1HV18QgtQslccgOkVfkfGS2TxgncVEEokOf2YdQ4/edit#slide=id.g4cf79cf4e3_0_214) |
+|  4 |  Thu, June 10        | [Lesson 3](https://docs.google.com/presentation/d/14vr1HV18QgtQslccgOkVfkfGS2TxgncVEEokOf2YdQ4/edit#slide=id.g4cf79cf4e3_0_214) |
 |  5 |  Tue, June 15        | [Lesson 4] |
 |  6 |  Thu, June 17        | [Lesson 5] |
 |  7 |  Tue, June 22        | [Lesson 6] |
@@ -106,10 +106,10 @@ All assignments are due **11.59pm PST** on the due date stated.
 
 |                        Assignment                         | Date Assigned |   Due Date   |
 |:---------------------------------------------------------:|:-------------:|:------------:|
-| [Assignment 1]                      |  Tue, Feb 2  |  Tue, Feb 9 | 
-| [Assignment 2]                    |  Tue, Feb 23  |  Thu, Mar 4   | 
-| [Assignment 3]                   |  Tue, Mar 16   |  Tue, Mar 23   | 
-| [Assignment 4]                   |  Tue, Apr 13    |  Tue, Apr 20 (50% Draft) ; Tue, May 4 (Final Draft)   | 
+| [Assignment 1:Self Presentation](https://docs.google.com/document/d/1XNYBwqi-V1wcPYTRu7wiDC8HZE2ISC-caJGpeghDHfw/edit#)                     |  Tue, Feb 2  |  Tue, Feb 9 | 
+| [Assignment 2: Mock Interviews](https://docs.google.com/document/d/1PkHHSJ5jSlWpV4nx6Bbw8JPP7L7ILKQChK_3IjHLf-Q/edit#heading=h.xyd1e4cldpqb)                    |  Tue, Feb 23  |  Thu, Mar 4   | 
+| [Assignment 3: Informational Interviews](https://docs.google.com/document/d/1dCKUAdqbkP3qN9Wuen_zuSNFEuCf1YLLiwTyAKqTQWU/edit#heading=h.xyd1e4cldpqb)                   |  Tue, Mar 16   |  Tue, Mar 23   | 
+| [Assignment 4: Youtube Video](https://docs.google.com/document/d/1V0JeJOY-Q-9qwx2i1T28W8X7lhuneghD4UWRuBpkhew/edit#heading=h.xyd1e4cldpqb)                   |  Tue, Apr 13    |  Tue,  | 
 
 
 ## Class Assignments
