@@ -48,8 +48,7 @@ By the end of the course, you will be able to ...
 ## Schedule
 
 <!-- tabs:start -->
-<!-- omit in toc -->
-### SECTION A: JUSTINE MEYR
+### **SECTION A: JUSTINE MEYR**
 
 **Course Dates:** Tuesday, June 1 – Thursday, July 29, 2021 (9 weeks)
 
@@ -76,8 +75,7 @@ By the end of the course, you will be able to ...
 | 17 |  Tue, July 27        | [Lesson 15] |
 | 18 |  Thu, July 29        | Final Exam/Presentations |
 
-<!-- omit in toc -->
-### SECTION B: REGINA YOONG
+### **SECTION B: REGINA YOONG**
 
 **Course Dates:** Monday, May 31 – Wednesday, July 28, 2021 (9 weeks)
 
