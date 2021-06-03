@@ -133,7 +133,7 @@ Your Gradescope login is your Make School email, and your password can be change
 
 2. Flip Grid
 
-Complete your video and upload it on Flip Grid before the next class.
+On a weekly basis: Complete your video and upload it on Flip Grid before the next class.
 
 Here is the [rubric](https://docs.google.com/document/d/1S2ST7b6a5z0gJga-BL7oiJ0mvXwIPHIuRyU8dw91iOs/edit). 
 
