@@ -117,6 +117,7 @@ All assignments are due **5.00pm PST** on the due date stated.
 | [Assignment 2: Mock Interviews](https://docs.google.com/document/d/1PkHHSJ5jSlWpV4nx6Bbw8JPP7L7ILKQChK_3IjHLf-Q/edit#heading=h.xyd1e4cldpqb)                    |  TBC  |  TBC  | 
 | [Assignment 3: Informational Interviews](https://docs.google.com/document/d/1dCKUAdqbkP3qN9Wuen_zuSNFEuCf1YLLiwTyAKqTQWU/edit#heading=h.xyd1e4cldpqb)                   |  TBC  |  TBC  | 
 | [Assignment 4: Youtube Video](https://docs.google.com/document/d/1V0JeJOY-Q-9qwx2i1T28W8X7lhuneghD4UWRuBpkhew/edit#heading=h.xyd1e4cldpqb)                   |  TBC    |  TBC  | 
+|Flipgrid [section A](https://flipgrid.com/4f0666bd) [Section B](https://flipgrid.com/b0d4d159)| 9 posts to Flipgrid
 
 
 ## Class Assignments
