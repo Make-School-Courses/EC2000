@@ -58,9 +58,9 @@ By the end of the course, you will be able to ...
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
 |  1 |  Tue, June 1         | Introductions | N/A
 |  2 |  Thu, June 3         | [Lesson 1](https://docs.google.com/presentation/d/1E-ohSWMWDK4iDpwZ7fxLgyMVwpn8DUO5H1W4Q4Bx7_8/edit#slide=id.g4cf79cf4e3_0_202) | [Assignment 1](https://docs.google.com/document/d/1XNYBwqi-V1wcPYTRu7wiDC8HZE2ISC-caJGpeghDHfw/edit#heading=h.8pq6lb3prq6o), [FLIPGRID 1](https://flipgrid.com/4f0666bd)
-|  3 |  Tue, June 8         | [Lesson 2](https://docs.google.com/presentation/d/14vr1HV18QgtQslccgOkVfkfGS2TxgncVEEokOf2YdQ4/edit#slide=id.g4cf79cf4e3_0_214) |
+|  3 |  Tue, June 8         | [Lesson 2](https://docs.google.com/presentation/d/14vr1HV18QgtQslccgOkVfkfGS2TxgncVEEokOf2YdQ4/edit#slide=id.g4cf79cf4e3_0_214) |[FLIPGRID 2](https://flipgrid.com/4f0666bd)
 |  4 |  Thu, June 10        | [Lesson 3](https://docs.google.com/presentation/d/14vr1HV18QgtQslccgOkVfkfGS2TxgncVEEokOf2YdQ4/edit#slide=id.g4cf79cf4e3_0_214) |
-|  5 |  Tue, June 15        | [Lesson 4] |
+|  5 |  Tue, June 15        | [Lesson 4] | 
 |  6 |  Thu, June 17        | [Lesson 5] |
 |  7 |  Tue, June 22        | [Lesson 6] |
 |  8 |  Thu, June 24        | [Lesson 7] |
