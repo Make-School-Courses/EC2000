@@ -60,7 +60,7 @@ By the end of the course, you will be able to ...
 |  2 |  Thu, June 3         | [Lesson 1](https://docs.google.com/presentation/d/1E-ohSWMWDK4iDpwZ7fxLgyMVwpn8DUO5H1W4Q4Bx7_8/edit#slide=id.g4cf79cf4e3_0_202) | [Assignment 1](https://docs.google.com/document/d/1XNYBwqi-V1wcPYTRu7wiDC8HZE2ISC-caJGpeghDHfw/edit#heading=h.8pq6lb3prq6o), [FLIPGRID 1](https://flipgrid.com/4f0666bd)
 |  3 |  Tue, June 8         | [Lesson 2](https://docs.google.com/presentation/d/14vr1HV18QgtQslccgOkVfkfGS2TxgncVEEokOf2YdQ4/edit#slide=id.g4cf79cf4e3_0_214) |[FLIPGRID 2](https://flipgrid.com/4f0666bd)
 |  4 |  Thu, June 10        | [Lesson 3](https://docs.google.com/presentation/d/14vr1HV18QgtQslccgOkVfkfGS2TxgncVEEokOf2YdQ4/edit#slide=id.g4cf79cf4e3_0_214) |
-|  5 |  Tue, June 15        | [Lesson 4](https://docs.google.com/presentation/d/1dj3997UhCj1xITdfNP5dAQFmfYDkxLpzFNLbu-cqpDI/edit?usp=sharing) | 
+|  5 |  Tue, June 15        | [Lesson 4](https://docs.google.com/presentation/d/1dj3997UhCj1xITdfNP5dAQFmfYDkxLpzFNLbu-cqpDI/edit?usp=sharing) | [Assignment 2](https://docs.google.com/document/d/1PkHHSJ5jSlWpV4nx6Bbw8JPP7L7ILKQChK_3IjHLf-Q/edit#heading=h.whunbze61vpq), [Flipgrid 3](https://flipgrid.com/4f0666bd)
 |  6 |  Thu, June 17        | [Lesson 5] |
 |  7 |  Tue, June 22        | [Lesson 6] |
 |  8 |  Thu, June 24        | [Lesson 7] |
@@ -114,7 +114,7 @@ All assignments are due **4.00pm PST** on the due date stated.
 |                        Assignment                         | Date Assigned |   Due Date   |
 |:---------------------------------------------------------:|:-------------:|:------------:|
 | [Assignment 1:Self Presentation](https://docs.google.com/document/d/1XNYBwqi-V1wcPYTRu7wiDC8HZE2ISC-caJGpeghDHfw/edit#)                     |  June 2-3  |  June 7-10 | 
-| [Assignment 2: Mock Interviews](https://docs.google.com/document/d/1PkHHSJ5jSlWpV4nx6Bbw8JPP7L7ILKQChK_3IjHLf-Q/edit#heading=h.xyd1e4cldpqb)                    |  TBC  |  TBC  | 
+| [Assignment 2: Mock Interviews](https://docs.google.com/document/d/1PkHHSJ5jSlWpV4nx6Bbw8JPP7L7ILKQChK_3IjHLf-Q/edit#heading=h.xyd1e4cldpqb)                    |  6/15, 6/16  |  6/23, 6/24  | 
 | [Assignment 3: Informational Interviews](https://docs.google.com/document/d/1dCKUAdqbkP3qN9Wuen_zuSNFEuCf1YLLiwTyAKqTQWU/edit#heading=h.xyd1e4cldpqb)                   |  TBC  |  TBC  | 
 | [Assignment 4: Youtube Video](https://docs.google.com/document/d/1V0JeJOY-Q-9qwx2i1T28W8X7lhuneghD4UWRuBpkhew/edit#heading=h.xyd1e4cldpqb)                   |  TBC    |  TBC  | 
 |Flipgrid [Section A](https://flipgrid.com/4f0666bd), [Section B](https://flipgrid.com/b0d4d159)| 9 posts   | Weekly  |
