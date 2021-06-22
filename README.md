@@ -62,10 +62,10 @@ By the end of the course, you will be able to ...
 |  4 |  Thu, June 10        | [Lesson 3](https://docs.google.com/presentation/d/14vr1HV18QgtQslccgOkVfkfGS2TxgncVEEokOf2YdQ4/edit#slide=id.g4cf79cf4e3_0_214) |
 |  5 |  Tue, June 15        | [Lesson 4](https://docs.google.com/presentation/d/1dj3997UhCj1xITdfNP5dAQFmfYDkxLpzFNLbu-cqpDI/edit?usp=sharing) | [Assignment 2](https://docs.google.com/document/d/1PkHHSJ5jSlWpV4nx6Bbw8JPP7L7ILKQChK_3IjHLf-Q/edit#heading=h.whunbze61vpq), [Flipgrid 3](https://flipgrid.com/4f0666bd)
 |  6 |  Thu, June 17        | Lesson 5 |
-|  7 |  Tue, June 22        | [Lesson 6](https://docs.google.com/presentation/d/15h3nP-DXEOV8BYutuN0nU2mNxOi-mHNK9luXhs2ED9A/edit#slide=id.ga55989ab38_0_151) |
-|  8 |  Thu, June 24        | [Lesson 7] |
-|  9 |  Tue, June 29        | [Lesson 8] |
-| 10 |  Thu, July 1         | [Lesson 9] |
+|  7 |  Tue, June 22        | [Lesson 6](https://docs.google.com/presentation/d/15h3nP-DXEOV8BYutuN0nU2mNxOi-mHNK9luXhs2ED9A/edit#slide=id.ga55989ab38_0_151) | [Flipgrid 4](https://flipgrid.com/4f0666bd)
+|  8 |  Thu, June 24        | [Lesson 7](https://docs.google.com/presentation/d/1bsY7oZFECIwKKevbmlhpKyqi4IL4nC4EG-ff6uDxRX4/edit#slide=id.gdc04b45497_0_0) |
+|  9 |  Tue, June 29        | Individual Meetings |
+| 10 |  Thu, July 1         | Individual Meetings|
 | 11 |  Tue, July 6         | **No Class - Independence Day Observed** |
 | 12 |  Thu, July 8         | [Lesson 10] |
 | 13 |  Tue, July 13        | [Lesson 11] |
