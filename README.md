@@ -84,19 +84,19 @@ By the end of the course, you will be able to ...
 | Class |          Date          |                 Topics                  |Asynchronous Activities|
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
 |  - |  Mon, May 31         | **No Class - Memorial Day** |
-|  1 |  Wed, June 2         | [Introduction](https://docs.google.com/presentation/d/1E-ohSWMWDK4iDpwZ7fxLgyMVwpn8DUO5H1W4Q4Bx7_8/edit#slide=id.g4cf79cf4e3_0_202) |
+|  1 |  Wed, June 2         | [Introduction](https://docs.google.com/presentation/d/1E-ohSWMWDK4iDpwZ7fxLgyMVwpn8DUO5H1W4Q4Bx7_8/edit#slide=id.g4cf79cf4e3_0_202) | [Flip Grid 1](https://flipgrid.com/235b41d9)|
 |  2 |  Mon, June 7         | [Self-Presentation](https://docs.google.com/presentation/d/14vr1HV18QgtQslccgOkVfkfGS2TxgncVEEokOf2YdQ4/edit#slide=id.g4cf79cf4e3_0_214) |
-|  3 |  Wed, June 9         | [Self-Presentation (Con.t)](https://docs.google.com/presentation/d/14vr1HV18QgtQslccgOkVfkfGS2TxgncVEEokOf2YdQ4/edit#slide=id.g4cf79cf4e3_0_214) |
-|  4 |  Mon, June 14        | [Lesson 4] |
-|  5 |  Wed, June 16        | [Lesson 5] |
-|  6 |  Mon, June 21        | [Lesson 6] |
-|  7 |  Wed, June 23        | [Lesson 7] |
-|  8 |  Mon, June 28        | [Lesson 8] |
-|  9 |  Wed, June 30        | [Lesson 9] |
+|  3 |  Wed, June 9         | [Self-Presentation (Con.t)](https://docs.google.com/presentation/d/14vr1HV18QgtQslccgOkVfkfGS2TxgncVEEokOf2YdQ4/edit#slide=id.g4cf79cf4e3_0_214) |[Flip Grid 2](https://flipgrid.com/6712605d)|
+|  4 |  Mon, June 14        | [Pacing](https://docs.google.com/presentation/d/1vAtOM0l4bVugLY0yrwqJEXZOyM1N5V67TQTOTKBwJOw/edit#slide=id.g4cf79cf4e3_0_202) | [Flip Grid 3](https://flipgrid.com/8c511836)|
+|  5 |  Wed, June 16        | [Pacing](https://docs.google.com/presentation/d/1vAtOM0l4bVugLY0yrwqJEXZOyM1N5V67TQTOTKBwJOw/edit#slide=id.g4cf79cf4e3_0_202) |
+|  6 |  Mon, June 21        | [Company Culture](https://docs.google.com/presentation/d/1KTBUWrGmLHQaPDtu1QdXJKghkmjDCe9tCpbDbJWSnDw/edit#slide=id.g4cf79cf4e3_0_202) | 
+|  7 |  Wed, June 23        | [Company Culture II](https://drive.google.com/file/d/1AMbbHpK5ys15etCDjH1tpvJWtjZHIW_c/view) |
+|  8 |  Mon, June 28        | [Individual Check-ins] | 
+|  9 |  Wed, June 30        | [Individual Check-ins] |[Flip Grid 5](https://flipgrid.com/446c9be0)
 | -  |  Mon, July 5         | **No Class - Independence Day Observed** |
-| 10 |  Wed, July 7         | [Lesson 10] |
-| 11 |  Mon, July 12        | [Lesson 11] |
-| 12 |  Wed, July 14        | [Lesson 12] |
+| 10 |  Wed, July 7         | [Guest Speaker: Casey Spurgeon](https://docs.google.com/presentation/d/1Lyxto7uSUKF5tWVjeoFaBBsYl5G3qxn7eCSN_8GbK1c/edit#slide=id.g4cf79cf4e3_0_202) |
+| 11 |  Mon, July 12        | [Informational Interview](https://docs.google.com/presentation/d/1Lyxto7uSUKF5tWVjeoFaBBsYl5G3qxn7eCSN_8GbK1c/edit#slide=id.g4cf79cf4e3_0_202) |
+| 12 |  Wed, July 14        | [Informational Interview](https://docs.google.com/presentation/d/1Lyxto7uSUKF5tWVjeoFaBBsYl5G3qxn7eCSN_8GbK1c/edit#slide=id.g4cf79cf4e3_0_202) |
 | 13 |  Mon, July 19        | [Lesson 13] |
 | 14 |  Wed, July 21        | [Lesson 14] |
 | 15 |  Mon, July 26        | [Lesson 15] |
