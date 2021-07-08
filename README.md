@@ -67,7 +67,7 @@ By the end of the course, you will be able to ...
 |  9 |  Tue, June 29        | Individual Meetings |[Flipgrid Week 5](https://flipgrid.com/4f0666bd)
 | 10 |  Thu, July 1         | Individual Meetings|
 | 11 |  Tue, July 6         | **No Class - Independence Day Observed** | [Flipgrid Week 6](https://flipgrid.com/4f0666bd)
-| 12 |  Thu, July 8         | [Lesson 10] | 
+| 12 |  Thu, July 8         | [Lesson 10](https://docs.google.com/presentation/d/1WT4rqieDs0EM7Rb1ke67CuMXC2fuP36Hi9tc8aCDDFE/edit?usp=sharing) | [Assignment 3](https://docs.google.com/document/d/1dCKUAdqbkP3qN9Wuen_zuSNFEuCf1YLLiwTyAKqTQWU/edit)
 | 13 |  Tue, July 13        | [Lesson 11] |
 | 14 |  Thu, July 15        | [Lesson 12] |
 | 15 |  Tue, July 20        | [Lesson 13] |
