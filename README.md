@@ -69,7 +69,7 @@ By the end of the course, you will be able to ...
 | 11 |  Tue, July 6         | **No Class - Independence Day Observed** | [Flipgrid Week 6](https://flipgrid.com/4f0666bd)
 | 12 |  Thu, July 8         | [Lesson 10](https://docs.google.com/presentation/d/1WT4rqieDs0EM7Rb1ke67CuMXC2fuP36Hi9tc8aCDDFE/edit?usp=sharing) | [Assignment 3](https://docs.google.com/document/d/1dCKUAdqbkP3qN9Wuen_zuSNFEuCf1YLLiwTyAKqTQWU/edit)
 | 13 |  Tue, July 13        | [Lesson 11](https://docs.google.com/presentation/d/1W60qkPa7HkiIYqsc9nlVSB5R84iP8f8JWQ86wSbVjSo/edit?usp=sharing) | [Flipgrid Week 7](https://flipgrid.com/dab3f908)
-| 14 |  Thu, July 15        | [Lesson 12] |
+| 14 |  Thu, July 15        | [Asynchronous Assignment](https://docs.google.com/document/d/1-gjbNq96JHPbihqSevf72D-dAnLUukyxL2p6UMmdtKI/edit?usp=sharing) |
 | 15 |  Tue, July 20        | [Lesson 13] |
 | 16 |  Thu, July 22        | [Lesson 14] |
 | 17 |  Tue, July 27        | [Lesson 15] |
