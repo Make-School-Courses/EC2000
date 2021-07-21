@@ -72,8 +72,8 @@ By the end of the course, you will be able to ...
 | 14 |  Thu, July 15        | [Asynchronous Assignment](https://docs.google.com/document/d/1-gjbNq96JHPbihqSevf72D-dAnLUukyxL2p6UMmdtKI/edit?usp=sharing) |
 | 15 |  Tue, July 20        | [Lesson 13](https://docs.google.com/presentation/d/11UI9SNdDjQf-eFokrfuyVfB03TWJsV-WgGyCRqJxa1Y/edit?usp=sharing) |
 | 16 |  Thu, July 22        | [Lesson 14] |
-| 17 |  Tue, July 27        | [Lesson 15] |
-| 18 |  Thu, July 29        | Final Exam/Presentations |
+| 17 |  Tue, July 27        | [asynchronous class] |
+| 18 |  Thu, July 29        | Presentations |
 
 ### **SECTION B: REGINA YOONG**
 
@@ -116,8 +116,8 @@ All assignments are due **4.00pm PST** on the due date stated.
 | [Assignment 1:Self Presentation](https://docs.google.com/document/d/1XNYBwqi-V1wcPYTRu7wiDC8HZE2ISC-caJGpeghDHfw/edit#)                     |  June 2-3  |  June 7-10 | 
 | [Assignment 2: Mock Interviews](https://docs.google.com/document/d/1PkHHSJ5jSlWpV4nx6Bbw8JPP7L7ILKQChK_3IjHLf-Q/edit#heading=h.xyd1e4cldpqb)                    |  6/15, 6/16  |  6/23, 6/24  | 
 | [Assignment 3: Informational Interviews](https://docs.google.com/document/d/1dCKUAdqbkP3qN9Wuen_zuSNFEuCf1YLLiwTyAKqTQWU/edit#heading=h.xyd1e4cldpqb)                   |  7/7, 7/8  |  7/14, 7/15  | 
-| [Assignment 4: Youtube Video](https://docs.google.com/document/d/1V0JeJOY-Q-9qwx2i1T28W8X7lhuneghD4UWRuBpkhew/edit#heading=h.xyd1e4cldpqb)                   |  TBC    |  TBC  | 
-|Flipgrid [Section A](https://flipgrid.com/4f0666bd), [Section B](https://flipgrid.com/b0d4d159)| 9 posts   | Weekly  |
+| [Assignment 4: Youtube Video](https://docs.google.com/document/d/1V0JeJOY-Q-9qwx2i1T28W8X7lhuneghD4UWRuBpkhew/edit#heading=h.xyd1e4cldpqb)                   |  7/19, 7/20   |  7/28, 7.29  | 
+|Flipgrid [Section A](https://flipgrid.com/4f0666bd), [Section B](https://flipgrid.com/b0d4d159)| 7 posts   | Weekly  |
 
 
 ## Class Assignments
